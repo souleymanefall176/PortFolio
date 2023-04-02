@@ -185,11 +185,11 @@ ul
     font-size: 30px;
     letter-spacing: 5px;
     position: relative;
-    font-family: 'adelia', serif;
+    font-family: 'adelia', sans-serif;
 }
 .aside .logo a span
 {
-    font-family: 'adelia', serif;
+    font-family: 'adelia', sans-serif;
     font-size: 40px;
 }
 .aside .logo a::before
