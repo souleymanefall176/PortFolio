@@ -26,6 +26,9 @@ body.dark
     --text-black-900: #302e4d;
     --text-black-700: #504e70;
 }
+h4 a{
+    text-decoration: underline;
+}
 body
 {
     margin: 0;
@@ -133,7 +136,9 @@ ul
     margin-right: -5px;
     position: relative;
     width: 100%;
+    justify-content: center;
 }
+
 .btn
 {
     font-size: 16px;
@@ -667,6 +672,7 @@ h3.my-profession
     width: 100%;
     display: block;
 }
+
 /*contact*/
 .contact-title
 {
